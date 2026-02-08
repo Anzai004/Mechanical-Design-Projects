@@ -18,7 +18,6 @@ A multi-component 3D assembly created to explore mechanical lifting mechanisms a
 * Mechanical component structure
 * Spatial design understanding
 
-👉 View Project: ./Screw-Jack
 
 ---
 
