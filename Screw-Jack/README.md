@@ -18,6 +18,7 @@ The screw jack was chosen as it represents a fundamental mechanical lifting devi
 • Component-based assembly
 • Sectional visualization for improved internal understanding
 • Clean geometric modeling focused on structural clarity
+• Modeled using a bottom-up assembly approach with individually designed components
 
 ---
 
